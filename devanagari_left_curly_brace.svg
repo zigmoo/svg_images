@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2065 10638" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,0,-38)">
+        <g id="devanagari_left_curly_brace" transform="matrix(0.73176,0,0,1.08204,-357.537,-149.49)">
+            <rect x="488.599" y="173.274" width="2820.82" height="9830.95" style="fill:none;"/>
+            <g id="_-left_curly_brace" serif:id=" left_curly_brace" transform="matrix(6.53668,0,0,7.09435,-15369.7,-20164.2)">
+                <text x="2366.42px" y="3900.17px" style="font-family:'DevanagariMT', 'Devanagari MT';font-size:1200px;">{</text>
+            </g>
+        </g>
+    </g>
+</svg>
